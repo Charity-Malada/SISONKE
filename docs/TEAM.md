@@ -12,17 +12,18 @@
 ## 👥 Members
 | Name     | Role                | Institution           | Discord Handle | Email |
 |----------|---------------------|-----------------------| -------------------|-------------|
-| **Name 1**   | Backend Developer   | University of Cape Town | name1 | <email1@gmail.com> |
-| **Name 2**   | Frontend Developer  | University of the Witwatersrand | name2 | <email2@gmail.com> |
-| **Name 3**   | Designer            | University of Johannesburg | name3 | <email3@gmail.com> |
-| **Name 4**   | Q.A Tester          | University of the Western Cape | name4 | <email4@gmail.com> |
+| **Praises Obi**   | Backend Developer   | University of the Western Cape | obias4345 | <email1@gmail.com> |
+| **Nompumelelo Vanessa Nthulane**   | Frontend Developer  | University of the Western Cape | name2 | <email2@gmail.com> |
+| **Charity Malada**   | Designer            | University of the Western Cape | name3 | <4358074@myuwc.ac.za> |
+| **Nhlamulo Maluleka**   | Q.A Tester          | University of the Western Cape | name4 | <email4@gmail.com> |
 
 ## 🏫 Institution
 ``` c
-// TODO: Fill-in the name of the institution your
+// University of The Western Cape
 // team is competing under.
 ```
 
 ## 📧 Other Contact Info
 - GitHub Repo: <https://github.com/user-name/repo-name>
 - Other Info (if available): LinkedIn, Website, etc.
+- 
