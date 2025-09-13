@@ -3,7 +3,7 @@
 > Note that while members of a team may be from different institutions, the team may only compete under **one** of them - and will therefore have to decide which one to compete under in this instance.
 
 # Team Information
-
+The name is a playful pun on "404 Not Found" — but we are "404 But Found" because we are all Christians (lost but now found). The team also proudly represents diversity: three women and one man.
 ## ⚒️ Team Name
 ``` c
 // 404ButFound
