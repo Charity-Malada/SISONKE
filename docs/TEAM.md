@@ -6,16 +6,16 @@
 
 ## ⚒️ Team Name
 ``` c
-// TODO: Fill-in the name of your team.
+// 404ButFound
 ```
 
 ## 👥 Members
 | Name     | Role                | Institution           | Discord Handle | Email |
 |----------|---------------------|-----------------------| -------------------|-------------|
-| **Praises Obi**   | Backend Developer   | University of the Western Cape | obias4345 | <email1@gmail.com> |
-| **Nompumelelo Vanessa Nthulane**   | Frontend Developer  | University of the Western Cape | name2 | <email2@gmail.com> |
-| **Charity Malada**   | Designer            | University of the Western Cape | name3 | <4358074@myuwc.ac.za> |
-| **Nhlamulo Maluleka**   | Q.A Tester          | University of the Western Cape | name4 | <email4@gmail.com> |
+| **Praises Obi**   | Backend Developer   | University of the Western Cape | obias4345 | <4323568@myuwc.ac.za> |
+| **Nompumelelo Vanessa Nthulane**   | Frontend Developer  | University of the Western Cape | mpuminthulane_13740 | <4323787@myuwc.ac.za> |
+| **Charity Malada**   | Designer            | University of the Western Cape | girlnetwork_62606 | <4358074@myuwc.ac.za> |
+| **Nhlamulo Maluleka**   | Q.A Tester          | University of the Western Cape | jamelia_21430 | <4358074@myuwc.ac.za> |
 
 ## 🏫 Institution
 ``` c
@@ -25,5 +25,10 @@
 
 ## 📧 Other Contact Info
 - GitHub Repo: <https://github.com/user-name/repo-name>
-- Other Info (if available): LinkedIn, Website, etc.
+- https://github.com/orgs/CSC-312/repositories
 - 
+- Other Info (if available): LinkedIn, Website, etc.
+- https://www.linkedin.com/in/praises-obi-0a7437296/
+- https://www.linkedin.com/in/nompumelelo-nthulane-457153347/
+- https://www.linkedin.com/in/charitymalada
+- http://www.linkedin.com/in/nhlamulo-jamelia-paula-maluleka-b350bb352
