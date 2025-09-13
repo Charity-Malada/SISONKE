@@ -20,13 +20,13 @@
 ## 🏫 Institution
 ``` c
 // University of The Western Cape
-// team is competing under.
+// Team is competing under: Financial Solution
 ```
 
 ## 📧 Other Contact Info
 - GitHub Repo: <https://github.com/user-name/repo-name>
 - https://github.com/orgs/CSC-312/repositories
-- 
+  
 - Other Info (if available): LinkedIn, Website, etc.
 - https://www.linkedin.com/in/praises-obi-0a7437296/
 - https://www.linkedin.com/in/nompumelelo-nthulane-457153347/
