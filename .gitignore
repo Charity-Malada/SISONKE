@@ -1,98 +1,45 @@
-# ==========================
-# OS Files
-# ==========================
-# Windows
-Thumbs.db
-Desktop.ini
-$RECYCLE.BIN/
-ehthumbs.db
-*.lnk
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-# macOS
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
 .DS_Store
-.AppleDouble
-.LSOverride
+*.pem
 
-# Linux
-*~
-
-# ==========================
-# IDE / Editor
-# ==========================
-# VSCode
-.vscode/
-.history/
-*.code-workspace
-
-# JetBrains (IntelliJ, PyCharm, CLion, etc.)
-.idea/
-*.iml
-*.iws
-*.ipr
-out/
-
-# Eclipse
-.project
-.settings/
-.metadata/
-bin/
-
-# ==========================
-# Build / dependency directories
-# ==========================
-# Node.js / JavaScript
-node_modules/
+# debug
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-dist/
-build/
+.pnpm-debug.log*
 
-# Python
-__pycache__/
-*.py[cod]
-*.pyo
-*.pyd
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
+# vercel
+.vercel
 
-# Java / Gradle / Maven
-target/
-*.class
-*.war
-*.ear
-.gradle/
-build/
+# typescript
+*.tsbuildinfo
+next-env.d.ts
 
-# C / C++ / CMake
-*.o
-*.obj
-*.out
-*.a
-CMakeFiles/
-CMakeCache.txt
+.genkit/*
+.env*
 
-# Rust
-/target/
-
-# Go
-/bin/
-/pkg/
-
-# Ruby
-*.gem
-.bundle/
-log/
-tmp/
-coverage/
-*.rbc
-
-# ==========================
-# Environment / config
-# ==========================
-.env
-.env.local
-.env.*.local
+# firebase
+firebase-debug.log
+firestore-debug.log
