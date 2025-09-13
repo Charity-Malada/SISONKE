@@ -1,0 +1,29 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "gaming-console",
+      "description": "A modern gaming console on a desk.",
+      "imageUrl": "https://picsum.photos/seed/gaming/600/400",
+      "imageHint": "gaming console"
+    },
+    {
+      "id": "concert-tickets",
+      "description": "Two tickets for a music concert.",
+      "imageUrl": "https://picsum.photos/seed/tickets/600/400",
+      "imageHint": "concert tickets"
+    },
+    {
+      "id": "mountain-bike",
+      "description": "A mountain bike on a trail.",
+      "imageUrl": "https://picsum.photos/seed/bike/600/400",
+      "imageHint": "mountain bike"
+    },
+    {
+      "id": "qr-code",
+      "description": "A placeholder QR code.",
+      "imageUrl": "https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=SisonkeMerchantPayment12345",
+      "imageHint": "qr code"
+    }
+  ]
+}
